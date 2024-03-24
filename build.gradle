@@ -26,8 +26,6 @@ dependencies {
     implementation "de.tr7zw:item-nbt-api:2.12.0"
     implementation "com.zaxxer:HikariCP:4.0.3"
     implementation "com.github.MrXiaoM:SQLHelper:e49785e161"
-    implementation "commons-io:commons-io:2.15.0"
-    implementation "commons-lang:commons-lang:2.6"
     implementation "org.jetbrains:annotations:19.0.0"
 }
 shadowJar {
