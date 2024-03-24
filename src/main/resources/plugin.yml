@@ -1,0 +1,10 @@
+name: ShadowBook
+version: '${version}'
+main: top.mrxiaom.fix.book.ShadowBookPlugin
+api-version: 1.13
+depend:
+  - ProtocolLib
+authors: [ MrXiaoM ]
+commands:
+  shadowbook:
+    description: Reload configuration
